@@ -35,4 +35,8 @@ switch(day){
         break;
     }
 
+    default:{
+        console.log("ERROR")
+    }
+
 }
